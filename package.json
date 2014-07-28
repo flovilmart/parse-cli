@@ -1,6 +1,6 @@
 {
   "name": "parse-cli",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Parse Command line tools built on Node",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,8 @@
     "fs-extra": "^0.10.0",
     "glob": "^4.0.3",
     "mime": "^1.2.11",
-    "parse-develop": "0.0.52",
-    "parse-module": "^0.1.1",
+    "parse-develop": "0.0.54",
+    "parse-module": "^0.1.2",
     "posix-getopt": "^1.1.0",
     "prompt": "^0.2.13",
     "request": "^2.36.0",
